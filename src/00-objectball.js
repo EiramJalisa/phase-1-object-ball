@@ -1,0 +1,4 @@
+const gameObject = {
+    home:
+    away
+}
